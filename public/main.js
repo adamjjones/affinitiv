@@ -4,4 +4,4 @@ const main = () => {
   }
 }
 
-document.addEventListener('DOMContentLoaded', main)
+//document.addEventListener('DOMContentLoaded', main)

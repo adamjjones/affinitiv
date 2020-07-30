@@ -1,0 +1,7 @@
+Development Strategy steps:
+
+1. Open the PSD file and idenify all text, fonts and images.
+
+2. View all the layers that make up the PSD file and export them as separate files.
+
+3. Make a HTML skeleton. 
