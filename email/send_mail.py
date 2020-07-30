@@ -61,6 +61,6 @@ if __name__ == "__main__":
         from_address=args.from_address,
         to_addresses=to_addresses,
         subject=args.subject,
-        text=args.message,
+        text=open(args.message, 'r').read(),
         html=args.html,
     )
